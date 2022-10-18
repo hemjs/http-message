@@ -1,7 +1,7 @@
 /**
  * Enumeration of HTTP status codes.
  */
-export enum HttpStatus {
+export enum StatusCode {
   // 1xx Informational
   CONTINUE = 100,
   SWITCHING_PROTOCOLS = 101,
