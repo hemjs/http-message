@@ -1,6 +1,6 @@
 {
   "name": "@hemjs/http-message",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Common classes and constants for HTTP messages",
   "author": "Augustus Kamau",
   "license": "MIT",
